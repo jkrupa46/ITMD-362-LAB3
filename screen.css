@@ -248,15 +248,15 @@ label
 
 @media screen and (min-width: 480px) 
 {
-	div
-	{
-	  display: block;
-	}
+  div
+  {
+    display: block;
+  }
   
-	label 
-	{
+  label 
+  {
     display: block;
     margin-right: 5px;
     font-size: 1.3em;
-	}
+  }
 }
