@@ -233,9 +233,11 @@ input
 {
   display: block;
   border-color: black;
+  float: center;
 }
 
 label
 {
   display : block;
+  float: center;
 }
