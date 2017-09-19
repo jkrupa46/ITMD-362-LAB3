@@ -224,7 +224,7 @@ textarea {
 div
 {
   float: center;
-	display: inline-block;
+  display: block;
 }
 
 body
