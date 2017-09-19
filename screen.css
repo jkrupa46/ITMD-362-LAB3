@@ -224,6 +224,7 @@ textarea {
 div
 {
   float: center;
+	display: inline-block;
 }
 
 body
@@ -243,4 +244,19 @@ input
 label
 {
   display : block;
+}
+
+@media screen and (min-width: 480px) 
+{
+	div
+	{
+	  display: block;
+	}
+  
+	label 
+	{
+    display: block;
+    margin-right: 5px;
+    font-size: 1.3em;
+	}
 }
