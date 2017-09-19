@@ -223,13 +223,12 @@ textarea {
 
 div
 {
-  float: center;
+  text-align: center;
   display: block;
 }
 
 body
 {
-  text-align: center;
   margin: auto;
   background-color: #58A1F5;
   color: black;
