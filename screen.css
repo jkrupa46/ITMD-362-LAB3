@@ -221,6 +221,11 @@ textarea {
 }
 /* CSS starts here */
 
+h1
+{
+  font-size: 200%;
+}
+
 div
 {
   margin: auto;
@@ -229,7 +234,6 @@ div
 
 body
 {
-  margin: auto;
   background-color: #58A1F5;
   color: black;
 }
