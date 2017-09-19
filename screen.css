@@ -219,3 +219,18 @@ textarea {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
+/* CSS starts here */
+
+body
+{
+  text-align: center;
+  margin: auto;
+  background-color: #58A1F5;
+  color: black;
+}
+
+input
+{
+  display: block;
+  border-color: black;
+}
