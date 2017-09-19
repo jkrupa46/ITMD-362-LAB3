@@ -221,6 +221,11 @@ textarea {
 }
 /* CSS starts here */
 
+div
+{
+  float: center;
+}
+
 body
 {
   text-align: center;
@@ -233,11 +238,9 @@ input
 {
   display: block;
   border-color: black;
-  float: center;
 }
 
 label
 {
   display : block;
-  float: center;
 }
