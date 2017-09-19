@@ -240,6 +240,12 @@ input
   border-color: black;
 }
 
+fieldset
+{
+	font-size:1.5em;
+	text-align:center;
+}
+
 label
 {
   display : block;
@@ -250,6 +256,11 @@ label
   div
   {
     display: block;
+  }
+  
+  fieldset
+  {
+		text-align:center;
   }
   
   label 
