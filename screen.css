@@ -251,7 +251,9 @@ body
   }
   label
   {
+    display: inline-block;
     margin-right: 5px;
+    font-size: 1.3em;
   }
   #submit_buttom
   {
