@@ -223,13 +223,8 @@ textarea {
 
 h1
 {
+  text-align: center;
   font-size: 200%;
-}
-
-div
-{
-  margin: auto;
-  display: block;
 }
 
 body
@@ -238,30 +233,16 @@ body
   color: black;
 }
 
-input
-{
-  display: block;
-  border-color: black;
-}
-
 fieldset
 {
 	font-size:1.5em;
 	text-align:center;
-}
-
-label
-{
-  display : block;
+  margin-left: 30em;
+  margin-right: 30em;
 }
 
 @media screen and (min-width: 480px) 
-{
-  div
-  {
-    display: block;
-  }
-  
+{ 
   fieldset
   {
 		text-align:center;
